@@ -5,7 +5,7 @@ import UserProfile from "./components/UserProfile";
 function App() {
   return (
     <>
-      <Greeting name="COMP1023" />
+      <Greeting name="Avishek007" />
       <UserProfile />
     </>
   );
